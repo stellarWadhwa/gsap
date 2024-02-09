@@ -1,0 +1,6 @@
+*{background-color: honeydew;}
+.box{    height: 200px;    width: 200px;margin: 2rem; cursor: pointer;}
+.purple {background-color:rgb(235, 121, 235);}
+.blue {background-color: rgb(142, 142, 255);}
+.green {background-color: rgb(187, 255, 187);}
+.container {display: flex; justify-content: start; max-width: 800px; margin: auto; flex-wrap: wrap;}
